@@ -1,0 +1,29 @@
+{
+  "name": "eduardo_pimentel_csci3916_hw_1",
+  "version": "1.0.0",
+  "description": "A simple echo server with express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha --timeout 10000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoPimentel18/Eduardo_Pimentel_CSCI3916_HW_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoPimentel18/Eduardo_Pimentel_CSCI3916_HW_1/issues"
+  },
+  "homepage": "https://github.com/EduardoPimentel18/Eduardo_Pimentel_CSCI3916_HW_1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "chai-http": "^5.1.1",
+    "mocha": "^11.1.0"
+  }
+}
