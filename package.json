@@ -22,8 +22,11 @@
     "express": "^4.21.2"
   },
   "devDependencies": {
-    "chai": "^5.1.2",
-    "chai-http": "^5.1.1",
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0",
     "mocha": "^11.1.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
